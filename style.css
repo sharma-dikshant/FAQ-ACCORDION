@@ -24,12 +24,13 @@ body{
     font-style: normal;
     background-color: var(--light-pink);
     padding: 10em 0 10em 0;
+    background-image: url(assets/images/background-pattern-desktop.svg);
 }
 
 .card{
-    width: 40em;
+    width: 36em;
     background-color: var(--white);
-    padding: 2em;
+    padding: 1.5em;
     border: none;
     border-radius: 14px;
     box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.07);
